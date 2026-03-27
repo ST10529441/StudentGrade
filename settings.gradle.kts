@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Student Grade"
 include(":app")
- 
+include(":emerismd")
